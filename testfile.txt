@@ -1,0 +1,2 @@
+This is just an excuse to try creation of a txt file
+from the Command Line, and also inserting text.
